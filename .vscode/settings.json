@@ -9,7 +9,6 @@
     "ruff.organizeImports": false,
     "editor.formatOnSave": true,
     "editor.tokenColorCustomizations": {
-        "comments": "",
         "textMateRules": []
     }
 }
